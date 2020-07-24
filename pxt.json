@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "gigglesensors": "github:dexterind/pxt-gigglesensors#v0.1"
+        "gigglesensors": "github:dexterind/pxt-gigglesensors#v0.0.4"
     },
     "files": [
         "main.blocks",
