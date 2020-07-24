@@ -4,12 +4,13 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "gigglebot": "github:cleoqc/pxt-gigglebot#v1.3.2"
+        "gigglesensors": "github:dexterind/pxt-gigglesensors#v0.1"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "gigglebot.ts"
     ],
     "testFiles": [
         "test.ts"
