@@ -149,7 +149,7 @@ namespace gigglebot {
    * No radio, no neopixels functionalities here in order to be compatible with Bluetooth.
    * Load pxt-giggle for radio and neopixels
    */
-  let ADDR = 0x04
+  let ADDR = 0x42
   let line_follower_threshold = 175
   let light_level_threshold = 850
   let currentMotorPower = gigglebotWhichSpeed.Normal;
